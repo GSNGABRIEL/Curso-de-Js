@@ -1,0 +1,43 @@
+1. O que são variáveis? Quais são as palavras-chave que usamos para declará-las? 
+
+2. Qual a diferença entre variáveis e constantes? 
+
+3. Quais são os 3 principais tipos de dados? 
+
+4. Explique o tipo de dado Boolean. 
+
+5. Qual a diferença entre Object e Array, em questão de posições? 
+6. Array é um valor interno de qual tipo de dado? 
+
+7. Para que serve o método typeof?
+Questões Práticas 
+
+Obs: entrada de dados deve ser feita pelo prompt e a saída pelo alert. 
+
+8. Receba 2 números, guarde em variáveis e exiba a soma dos 2 valores. 
+
+9. Receba um número inteiro, transforme ele em número real e exiba o mesmo. 
+
+10. Receba 2 números reais, some e transforme o resultado da soma em número inteiro.
+
+-----------------------------------------------------------------
+                        -->RESPOSTAS<--
+1.Variaveis são um tipo de dado que podemos guardar um valor nela.
+
+2.A diferença entre variaveis e constates é que uma podemos mudar o valor com o tempo e a outra o volor é sempre o mesmo.
+
+3.String, Number e Boolean
+
+4.Boolean é um tipo de dado que irá te mostrar o resutado entre true(verdadeiro) ou false(falso).
+
+5.No array é obtido o valor pelo índice de sua posiço, no object é obtido pela sua propiedade que foi definidada
+
+6.É o valor interno de Object.
+
+7.O typeof serve para mostrar o tipo de dado que está presete no dado.
+
+8.Q8.
+
+9.Q9.
+
+10.Q10.
